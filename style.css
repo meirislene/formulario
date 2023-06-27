@@ -1,0 +1,23 @@
+form{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.container{
+    display: block;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+}
+img{
+    object-fit: cover;
+}
+
+
+
